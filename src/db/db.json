@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "name": "Sergio Erdman II",
+    "phone": "298.459.4416 x852",
+    "email": "Darron.Morissette@yahoo.com",
+    "job": "Chief Tactics Specialist"
+  },
+  {
+    "name": "Angie Kovacek",
+    "phone": "(896) 585-6151 x37373",
+    "email": "Queen_Tillman68@gmail.com",
+    "job": "Chief Security Supervisor"
+  },
+  {
+    "name": "Dr. Charles Hammes",
+    "phone": "291.431.5463 x823",
+    "email": "Derek.Stark@hotmail.com",
+    "job": "Product Mobility Executive"
+  },
+  {
+    "name": "Grady Goodwin",
+    "phone": "810.919.2317 x979",
+    "email": "Courtney.Mills66@gmail.com",
+    "job": "Product Functionality Architect"
+  },
+  {
+    "name": "Tim Dickinson",
+    "phone": "249.455.7203",
+    "email": "Abelardo33@yahoo.com",
+    "job": "Forward Usability Manager"
+  },
+  {
+    "name": "Rudolph Schultz",
+    "phone": "(787) 640-5281 x00510",
+    "email": "Timmothy.Cremin22@hotmail.com",
+    "job": "Senior Quality Agent"
+  }
+]
